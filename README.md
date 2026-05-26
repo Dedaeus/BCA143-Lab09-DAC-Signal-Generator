@@ -65,7 +65,7 @@
   clip on a GND pin. This is where the generated waveform is measured.
 </p>
 <p align="center">
-  ![Uploading 20260526_075830.jpg…]()
+<img src="https://github.com/user-attachments/assets/6d784158-cdbf-4562-962f-41a49ed06a4b" alt="Probe close-up on PA4" width="400"/>
 </p>
 
 <h3>6. Square Wave Output</h3>
@@ -75,7 +75,7 @@
   fall times are in the hundreds of nanoseconds.
 </p>
 <p align="center">
-<img src="images/03_square_wave.png" alt="Square wave on oscilloscope" width="400"/>
+  <img src="https://github.com/user-attachments/assets/719f1e8a-2695-47b9-a189-7facf9229d69" alt="Square wave on oscilloscope" width="400"/>
 </p>
 
 <h3>7. Ramp Wave Output</h3>
@@ -85,7 +85,7 @@
   the rising edge climbs in 64 small voltage jumps instead of a smooth slope.
 </p>
 <p align="center">
-<img src="images/04_ramp_wave.png" alt="Ramp wave on oscilloscope" width="400"/>
+  <img src="https://github.com/user-attachments/assets/6e2bff30-51fb-4c5a-9a3f-bde3a8f441a7" alt="Ramp wave on oscilloscope" width="400"/>
 </p>
 
 <h3>8. Sine Wave Output</h3>
@@ -95,7 +95,7 @@
   when zoomed in closely.
 </p>
 <p align="center">
-<img src="images/05_sine_wave.png" alt="Sine wave on oscilloscope" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c86fae2b-5736-4ec3-be6e-41faefb0194b" alt="Sine wave on oscilloscope" width="400"/>
 </p>
 
 <hr>
